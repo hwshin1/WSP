@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|solutionrelative:0314\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|solutionrelative:0314\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|solutionrelative:0314\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|solutionrelative:0314\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09CD6D54-8A5F-4FED-A566-314EFA7F3A02}|0314\\0314.vcxproj|solutionrelative:0314\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "start.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\start.cpp",
+              "RelativeDocumentMoniker": "0314\\start.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\start.cpp",
+              "RelativeToolTip": "0314\\start.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T12:54:07.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "control.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\control.cpp",
+              "RelativeDocumentMoniker": "0314\\control.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\control.cpp",
+              "RelativeToolTip": "0314\\control.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T12:23:30.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "control.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\control.h",
+              "RelativeDocumentMoniker": "0314\\control.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\control.h",
+              "RelativeToolTip": "0314\\control.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T12:23:58.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ui.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\ui.cpp",
+              "RelativeDocumentMoniker": "0314\\ui.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\ui.cpp",
+              "RelativeToolTip": "0314\\ui.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T12:23:37.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ui.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\ui.h",
+              "RelativeDocumentMoniker": "0314\\ui.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0314\\0314\\ui.h",
+              "RelativeToolTip": "0314\\ui.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T12:57:34.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

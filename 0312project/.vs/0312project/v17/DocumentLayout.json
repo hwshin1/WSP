@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|solutionrelative:0312project\\handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|solutionrelative:0312project\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|solutionrelative:0312project\\process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|solutionrelative:0312project\\handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\process.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|solutionrelative:0312project\\process.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|solutionrelative:0312project\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32151F76-6454-40BF-A74D-49C3B68F0EB6}|0312project\\0312project.vcxproj|solutionrelative:0312project\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "handler.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\handler.cpp",
+              "RelativeDocumentMoniker": "0312project\\handler.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\handler.cpp",
+              "RelativeToolTip": "0312project\\handler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T11:57:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "control.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\control.h",
+              "RelativeDocumentMoniker": "0312project\\control.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\control.h",
+              "RelativeToolTip": "0312project\\control.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T11:57:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "process.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\process.cpp",
+              "RelativeDocumentMoniker": "0312project\\process.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\process.cpp",
+              "RelativeToolTip": "0312project\\process.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T12:39:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "handler.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\handler.h",
+              "RelativeDocumentMoniker": "0312project\\handler.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\handler.h",
+              "RelativeToolTip": "0312project\\handler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T11:57:52.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "process.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\process.h",
+              "RelativeDocumentMoniker": "0312project\\process.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\process.h",
+              "RelativeToolTip": "0312project\\process.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T12:40:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "start.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\start.cpp",
+              "RelativeDocumentMoniker": "0312project\\start.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\start.cpp",
+              "RelativeToolTip": "0312project\\start.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T11:57:17.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "std.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\std.h",
+              "RelativeDocumentMoniker": "0312project\\std.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0312project\\0312project\\std.h",
+              "RelativeToolTip": "0312project\\std.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T11:57:24.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

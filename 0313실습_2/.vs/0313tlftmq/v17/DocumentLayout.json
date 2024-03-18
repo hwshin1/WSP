@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ipc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\ipc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ipc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\ipc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F235290-3686-45D8-958A-576548D8CCCE}|0313tlftmq\\0313tlftmq.vcxproj|solutionrelative:0313tlftmq\\data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "handler.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\handler.h",
+              "RelativeDocumentMoniker": "0313tlftmq\\handler.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\handler.h",
+              "RelativeToolTip": "0313tlftmq\\handler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T06:44:30.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ipc.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ipc.cpp",
+              "RelativeDocumentMoniker": "0313tlftmq\\ipc.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ipc.cpp",
+              "RelativeToolTip": "0313tlftmq\\ipc.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T04:26:16.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "handler.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\handler.cpp",
+              "RelativeDocumentMoniker": "0313tlftmq\\handler.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\handler.cpp",
+              "RelativeToolTip": "0313tlftmq\\handler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T04:26:43.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "control.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\control.cpp",
+              "RelativeDocumentMoniker": "0313tlftmq\\control.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\control.cpp",
+              "RelativeToolTip": "0313tlftmq\\control.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T04:26:50.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "control.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\control.h",
+              "RelativeDocumentMoniker": "0313tlftmq\\control.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\control.h",
+              "RelativeToolTip": "0313tlftmq\\control.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T04:27:23.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ipc.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ipc.h",
+              "RelativeDocumentMoniker": "0313tlftmq\\ipc.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ipc.h",
+              "RelativeToolTip": "0313tlftmq\\ipc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T04:27:51.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "start.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\start.cpp",
+              "RelativeDocumentMoniker": "0313tlftmq\\start.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\start.cpp",
+              "RelativeToolTip": "0313tlftmq\\start.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T04:26:22.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "std.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\std.h",
+              "RelativeDocumentMoniker": "0313tlftmq\\std.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\std.h",
+              "RelativeToolTip": "0313tlftmq\\std.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T04:27:04.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ui.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ui.h",
+              "RelativeDocumentMoniker": "0313tlftmq\\ui.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ui.h",
+              "RelativeToolTip": "0313tlftmq\\ui.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T04:27:36.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ui.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ui.cpp",
+              "RelativeDocumentMoniker": "0313tlftmq\\ui.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\ui.cpp",
+              "RelativeToolTip": "0313tlftmq\\ui.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T04:26:29.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "data.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\data.h",
+              "RelativeDocumentMoniker": "0313tlftmq\\data.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\data.h",
+              "RelativeToolTip": "0313tlftmq\\data.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T04:27:43.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "data.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\data.cpp",
+              "RelativeDocumentMoniker": "0313tlftmq\\data.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313\uC2E4\uC2B5_2\\0313tlftmq\\data.cpp",
+              "RelativeToolTip": "0313tlftmq\\data.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T04:26:35.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

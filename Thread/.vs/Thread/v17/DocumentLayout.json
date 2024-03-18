@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49FAE205-5723-4F5D-B940-7371D3CF4B70}|Thread\\Thread.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\Thread\\\uC790\uB3D9\uC774\uBCA4\uD2B8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49FAE205-5723-4F5D-B940-7371D3CF4B70}|Thread\\Thread.vcxproj|solutionrelative:Thread\\\uC790\uB3D9\uC774\uBCA4\uD2B8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FAE205-5723-4F5D-B940-7371D3CF4B70}|Thread\\Thread.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\Thread\\\uD06C\uB9AC\uD2F0\uCEEC\uC139\uC158.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49FAE205-5723-4F5D-B940-7371D3CF4B70}|Thread\\Thread.vcxproj|solutionrelative:Thread\\\uD06C\uB9AC\uD2F0\uCEEC\uC139\uC158.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49FAE205-5723-4F5D-B940-7371D3CF4B70}|Thread\\Thread.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\Thread\\thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49FAE205-5723-4F5D-B940-7371D3CF4B70}|Thread\\Thread.vcxproj|solutionrelative:Thread\\thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC790\uB3D9\uC774\uBCA4\uD2B8.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\Thread\\\uC790\uB3D9\uC774\uBCA4\uD2B8.cpp",
+              "RelativeDocumentMoniker": "Thread\\\uC790\uB3D9\uC774\uBCA4\uD2B8.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\Thread\\\uC790\uB3D9\uC774\uBCA4\uD2B8.cpp",
+              "RelativeToolTip": "Thread\\\uC790\uB3D9\uC774\uBCA4\uD2B8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T08:17:31.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uD06C\uB9AC\uD2F0\uCEEC\uC139\uC158.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\Thread\\\uD06C\uB9AC\uD2F0\uCEEC\uC139\uC158.cpp",
+              "RelativeDocumentMoniker": "Thread\\\uD06C\uB9AC\uD2F0\uCEEC\uC139\uC158.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\Thread\\\uD06C\uB9AC\uD2F0\uCEEC\uC139\uC158.cpp",
+              "RelativeToolTip": "Thread\\\uD06C\uB9AC\uD2F0\uCEEC\uC139\uC158.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T06:18:49.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "thread.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\Thread\\thread.cpp",
+              "RelativeDocumentMoniker": "Thread\\thread.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\Thread\\Thread\\thread.cpp",
+              "RelativeToolTip": "Thread\\thread.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T04:13:57.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

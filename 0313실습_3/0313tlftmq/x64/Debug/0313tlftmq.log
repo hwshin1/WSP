@@ -1,0 +1,3 @@
+﻿  control.cpp
+C:\Users\hwshin\Desktop\WSP\0313실습_3\0313tlftmq\control.cpp(31,8): warning C4101: 'nickname' :참조되지 않은 지역 변수입니다.
+  0313tlftmq.vcxproj -> C:\Users\hwshin\Desktop\WSP\0313실습_3\x64\Debug\0313tlftmq.exe

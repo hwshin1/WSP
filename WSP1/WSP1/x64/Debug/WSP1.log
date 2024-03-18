@@ -1,0 +1,49 @@
+﻿  control.cpp
+  handler.cpp
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(7,66): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'control.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(12,32): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'control.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\control.cpp(32,6): error C2660: 'ui_ListItemChanged': 함수는 4개의 인수를 사용하지 않습니다.
+  C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(7,6):
+  'ui_ListItemChanged' 선언을 참조하십시오.
+  C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\control.cpp(32,6):
+  인수 목록 '(HWND, WPARAM, LPARAM, ListPrintData *)'을(를) 일치시키는 동안
+  
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\control.cpp(35,2): error C2660: 'ui_SelectPrint': 함수는 2개의 인수를 사용하지 않습니다.
+  C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(12,6):
+  'ui_SelectPrint' 선언을 참조하십시오.
+  C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\control.cpp(35,2):
+  인수 목록 '(HWND, ListPrintData)'을(를) 일치시키는 동안
+  
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(7,66): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'handler.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(12,32): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'handler.cpp'을(를) 컴파일하는 중)
+  
+  process.cpp
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(7,66): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'process.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(12,32): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'process.cpp'을(를) 컴파일하는 중)
+  
+  start.cpp
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(7,66): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'start.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(12,32): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'start.cpp'을(를) 컴파일하는 중)
+  
+  ui.cpp
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(7,66): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'ui.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.h(12,32): error C2061: 구문 오류: 식별자 'ListPrintData'
+  (소스 파일 'ui.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\hwshin\Desktop\WSP\WSP1\WSP1\ui.cpp(111,9): warning C4312: '형식 캐스트': 'UINT'에서 더 큰 'HANDLE'(으)로의 변환입니다.
+  코드를 생성하고 있습니다...

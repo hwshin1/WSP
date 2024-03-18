@@ -1,0 +1,20 @@
+﻿  control.cpp
+  data.cpp
+  handler.cpp
+C:\Users\hwshin\Desktop\WSP\0313tlftmq\0313tlftmq\control.cpp(13,2): error C2660: 'ui_GetTargetName': 함수는 3개의 인수를 사용하지 않습니다.
+  C:\Users\hwshin\Desktop\WSP\0313tlftmq\0313tlftmq\ui.h(7,6):
+  'ui_GetTargetName' 선언을 참조하십시오.
+  C:\Users\hwshin\Desktop\WSP\0313tlftmq\0313tlftmq\control.cpp(13,2):
+  인수 목록 '(HWND, TCHAR [50], unsigned __int64)'을(를) 일치시키는 동안
+  
+C:\Users\hwshin\Desktop\WSP\0313tlftmq\0313tlftmq\control.cpp(16,2): error C2660: 'ui_PrintMessage': 함수는 0개의 인수를 사용하지 않습니다.
+  C:\Users\hwshin\Desktop\WSP\0313tlftmq\0313tlftmq\ui.h(9,6):
+  'ui_PrintMessage' 선언을 참조하십시오.
+  C:\Users\hwshin\Desktop\WSP\0313tlftmq\0313tlftmq\control.cpp(16,2):
+  인수 목록 '()'을(를) 일치시키는 동안
+  
+C:\Users\hwshin\Desktop\WSP\0313tlftmq\0313tlftmq\control.cpp(18,20): error C2059: 구문 오류: ')'
+  ipc.cpp
+  start.cpp
+  ui.cpp
+  코드를 생성하고 있습니다...

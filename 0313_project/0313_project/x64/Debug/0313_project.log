@@ -1,0 +1,9 @@
+﻿  control.cpp
+C:\Users\hwshin\Desktop\WSP\0313_project\0313_project\control.cpp(38,8): warning C4101: 'nickname' :참조되지 않은 지역 변수입니다.
+  data.cpp
+  handler.cpp
+  ipc.cpp
+  start.cpp
+  ui.cpp
+  코드를 생성하고 있습니다...
+  0313_project.vcxproj -> C:\Users\hwshin\Desktop\WSP\0313_project\x64\Debug\0313_project.exe

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B911C884-E458-453E-B71A-F53A30EEEBDF}|0313MMF\\0313MMF.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\0313MMF\\MMF\uACF5\uC720.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B911C884-E458-453E-B71A-F53A30EEEBDF}|0313MMF\\0313MMF.vcxproj|solutionrelative:0313MMF\\MMF\uACF5\uC720.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B911C884-E458-453E-B71A-F53A30EEEBDF}|0313MMF\\0313MMF.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\0313MMF\\MMF\uACF5\uC720(\uC218\uC2E0\uBD80).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B911C884-E458-453E-B71A-F53A30EEEBDF}|0313MMF\\0313MMF.vcxproj|solutionrelative:0313MMF\\MMF\uACF5\uC720(\uC218\uC2E0\uBD80).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B911C884-E458-453E-B71A-F53A30EEEBDF}|0313MMF\\0313MMF.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\0313MMF\\MMF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B911C884-E458-453E-B71A-F53A30EEEBDF}|0313MMF\\0313MMF.vcxproj|solutionrelative:0313MMF\\MMF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MMF\uACF5\uC720(\uC218\uC2E0\uBD80).cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\0313MMF\\MMF\uACF5\uC720(\uC218\uC2E0\uBD80).cpp",
+              "RelativeDocumentMoniker": "0313MMF\\MMF\uACF5\uC720(\uC218\uC2E0\uBD80).cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\0313MMF\\MMF\uACF5\uC720(\uC218\uC2E0\uBD80).cpp",
+              "RelativeToolTip": "0313MMF\\MMF\uACF5\uC720(\uC218\uC2E0\uBD80).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T11:24:59.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MMF\uACF5\uC720.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\0313MMF\\MMF\uACF5\uC720.cpp",
+              "RelativeDocumentMoniker": "0313MMF\\MMF\uACF5\uC720.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\0313MMF\\MMF\uACF5\uC720.cpp",
+              "RelativeToolTip": "0313MMF\\MMF\uACF5\uC720.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T11:24:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MMF.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\0313MMF\\MMF.cpp",
+              "RelativeDocumentMoniker": "0313MMF\\MMF.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0313MMF\\0313MMF\\MMF.cpp",
+              "RelativeToolTip": "0313MMF\\MMF.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T02:16:58.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

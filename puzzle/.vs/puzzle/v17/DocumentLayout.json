@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\handler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\control.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\handler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC33E883-92CC-4B0F-AF6B-69A2F377C8F2}|puzzle\\puzzle.vcxproj|solutionrelative:puzzle\\std.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "start.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\start.cpp",
+              "RelativeDocumentMoniker": "puzzle\\start.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\start.cpp",
+              "RelativeToolTip": "puzzle\\start.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T07:15:31.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "handler.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\handler.cpp",
+              "RelativeDocumentMoniker": "puzzle\\handler.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\handler.cpp",
+              "RelativeToolTip": "puzzle\\handler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T05:14:10.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "control.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\control.cpp",
+              "RelativeDocumentMoniker": "puzzle\\control.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\control.cpp",
+              "RelativeToolTip": "puzzle\\control.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T05:40:39.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "control.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\control.h",
+              "RelativeDocumentMoniker": "puzzle\\control.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\control.h",
+              "RelativeToolTip": "puzzle\\control.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T05:40:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\game.cpp",
+              "RelativeDocumentMoniker": "puzzle\\game.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\game.cpp",
+              "RelativeToolTip": "puzzle\\game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T05:43:10.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ui.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\ui.cpp",
+              "RelativeDocumentMoniker": "puzzle\\ui.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\ui.cpp",
+              "RelativeToolTip": "puzzle\\ui.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T06:09:36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "resource.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\resource.h",
+              "RelativeDocumentMoniker": "puzzle\\resource.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\resource.h",
+              "RelativeToolTip": "puzzle\\resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T10:05:02.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\game.h",
+              "RelativeDocumentMoniker": "puzzle\\game.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\game.h",
+              "RelativeToolTip": "puzzle\\game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T05:43:09.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ui.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\ui.h",
+              "RelativeDocumentMoniker": "puzzle\\ui.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\ui.h",
+              "RelativeToolTip": "puzzle\\ui.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T05:56:04.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "handler.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\handler.h",
+              "RelativeDocumentMoniker": "puzzle\\handler.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\handler.h",
+              "RelativeToolTip": "puzzle\\handler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T05:14:35.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "std.h",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\std.h",
+              "RelativeDocumentMoniker": "puzzle\\std.h",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\puzzle\\puzzle\\std.h",
+              "RelativeToolTip": "puzzle\\std.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T07:39:42.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

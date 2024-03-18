@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hwshin\\Desktop\\WSP\\0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E94FA7-C5DA-405F-B6F6-E25BA50E7390}|0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\0318_\uC554\uC2DC\uC801\uC0AC\uC6A9.vcxproj|C:\\Users\\hwshin\\Desktop\\WSP\\0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\\uC554\uC2DC\uC801\uC0AC\uC6A9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3E94FA7-C5DA-405F-B6F6-E25BA50E7390}|0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\0318_\uC554\uC2DC\uC801\uC0AC\uC6A9.vcxproj|solutionrelative:0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\\uC554\uC2DC\uC801\uC0AC\uC6A9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC554\uC2DC\uC801\uC0AC\uC6A9.cpp",
+              "DocumentMoniker": "C:\\Users\\hwshin\\Desktop\\WSP\\0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\\uC554\uC2DC\uC801\uC0AC\uC6A9.cpp",
+              "RelativeDocumentMoniker": "0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\\uC554\uC2DC\uC801\uC0AC\uC6A9.cpp",
+              "ToolTip": "C:\\Users\\hwshin\\Desktop\\WSP\\0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\\uC554\uC2DC\uC801\uC0AC\uC6A9.cpp",
+              "RelativeToolTip": "0318_\uC554\uC2DC\uC801\uC0AC\uC6A9\\\uC554\uC2DC\uC801\uC0AC\uC6A9.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T01:12:10.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
